@@ -1,0 +1,8 @@
+pandas
+regex
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+nltk
